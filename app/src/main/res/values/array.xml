@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Lista de los nombre de menu-->
+
+    <string-array name="nombreMenu">
+        <item>@string/home</item>
+        <item>@string/facebook</item>
+        <item>@string/instragram</item>
+        <item>@string/google_plus</item>
+        <item>@string/twitter</item>
+    </string-array>
+
+    <!-- Textos de los Dialog-->
+    <string-array name="nombreDiaglog">
+        <item>@string/facebook</item>
+        <item>@string/instragram</item>
+        <item>@string/google_plus</item>
+        <item>@string/twitter</item>
+    </string-array>
+
+
+
+    <array name="nombreImgMenu">
+        <item>@drawable/home</item>
+        <item>@drawable/facebook</item>
+        <item>@drawable/instagram</item>
+        <item>@drawable/plus</item>
+        <item>@drawable/tweeter</item>
+    </array>
+
+    <!-- Imagenes Drawer-->
+
+    <array name="nombreImgMenu2">
+        <item>@drawable/home5</item>
+        <item>@drawable/facebook3</item>
+        <item>@drawable/instagram3</item>
+        <item>@drawable/plus3</item>
+        <item>@drawable/twitter3</item>
+    </array>
+
+
+    <!-- Uri de los sitios del menu-->
+    <string-array name="uriMenu">
+        <item>blank/</item>
+        <item>https://www.facebook.com/</item>
+        <item>https://www.instagram.com</item>
+        <item>https://plus.google.com</item>
+        <item>https://twitter.com</item>
+    </string-array>
+
+    <!-- Colores Fragmentos / Categoria-->
+
+    <string-array name="colorToolbar">
+        <item>@color/colorToolBarHome</item>
+        <item>@color/colorToolBarFacebook</item>
+        <item>@color/colorToolBarInstangram</item>
+        <item>@color/colorToolBarPlus</item>
+        <item>@color/colorToolBarTwitter</item>
+
+    </string-array>
+
+    <!--Imagenes de pestañas redes sociales-->
+
+    <array name="facebookImg">
+        <item>@drawable/ic_noticias</item>
+        <item>@drawable/ic_contacto</item>
+        <item>@drawable/ic_mundo</item>
+    </array>
+
+
+    <array name="instagramImg">
+        <item>@drawable/ic_lupa</item>
+        <item>@drawable/ic_camera</item>
+        <item>@drawable/ic_corazon</item>
+    </array>
+
+    <array name="plusImg">
+        <item>@drawable/ic_menu</item>
+        <item>@drawable/ic_trespts</item>
+        <item>@drawable/ic_campana</item>
+    </array>
+
+    <array name="twiterImg">
+        <item>@drawable/ic_campana</item>
+        <item>@drawable/ic_mensaje</item>
+        <item>@drawable/ic_lupa</item>
+    </array>
+
+
+<!--Titulos de los tabs-->
+    <string-array name="facebookTabs">
+        <item>@string/noticias</item>
+        <item>@string/solicitudes</item>
+        <item>@string/notificaciones</item>
+    </string-array>
+
+    <string-array name="instagramTabs">
+        <item>@string/explorar</item>
+        <item>@string/publicar</item>
+        <item>@string/notificaciones</item>
+    </string-array>
+
+    <string-array name="plusTabs">
+        <item>@string/coleciones</item>
+        <item>@string/comunidades</item>
+        <item>@string/notificaciones</item>
+    </string-array>
+
+    <string-array name="twiterTabs">
+        <item>@string/notificaciones</item>
+        <item>@string/mensajes</item>
+        <item>@string/buscar</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Mis Redes Sociales</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home">Inicio</string>
+    <string name="facebook">Facebook</string>
+    <string name="instragram">Instagram</string>
+    <string name="google_plus">Google Plus</string>
+    <string name="twitter">Twitter</string>
+    <string name="version_web">Versión Web</string>
+    <string name="share">Compartir</string>
+    <string name="configuracion">Confirguración</string>
+
+    <!--Titulos tabs-->
+    <string name="noticias">Noticias</string>
+    <string name="solicitudes">Solicitudes</string>
+    <string name="notificaciones">Notificaciones</string>
+    <string name="explorar">Explorar</string>
+    <string name="publicar">Publicar</string>
+    <string name="coleciones">Colecciones</string>
+    <string name="comunidades">Comunidades</string>
+    <string name="mensajes">mensajes</string>
+    <string name="buscar">Buscar</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="owner">Ing. Alexis Rojas Hidalgo</string>
+    <string name="email">arojash@innovagenesis.com</string>
+    <string name="compartir">Compartir</string>
+
+</resources>

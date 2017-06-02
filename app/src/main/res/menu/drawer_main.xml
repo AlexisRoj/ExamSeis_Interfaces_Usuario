@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/facebook"
+            android:title="@string/facebook" />
+        <item
+            android:id="@+id/nav_instagram"
+            android:icon="@drawable/instagram"
+            android:title="@string/instragram" />
+        <item
+            android:id="@+id/nav_plus"
+            android:icon="@drawable/plus"
+            android:title="@string/google_plus" />
+
+        <item
+            android:id="@+id/nav_tweeter"
+            android:icon="@drawable/tweeter"
+            android:title="@string/twitter" />
+    </group>
+
+</menu>
